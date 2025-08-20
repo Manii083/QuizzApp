@@ -1,4 +1,4 @@
-import React, { useState, useEffect, createContext, useContext } from 'react';
+import React, { useState, useEffect, createContext } from 'react';
 import { Clock, Zap, SkipForward, Trophy, RotateCcw, Play } from 'lucide-react';
 
 // Quiz data structure
